@@ -1,0 +1,240 @@
+[{
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_5024",
+    "stationName": "Alipur, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_301",
+    "stationName": "Anand Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1420",
+    "stationName": "Ashok Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_108",
+    "stationName": "Aya Nagar, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1560",
+    "stationName": "Bawana, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_104",
+    "stationName": "Burari Crossing, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_103",
+    "stationName": "CRRI Mathura Road, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_5393",
+    "stationName": "Chandni Chowk, Delhi - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_118",
+    "stationName": "DTU, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1421",
+    "stationName": "Dr. Karni Singh Shooting Range, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1422",
+    "stationName": "Dwarka-Sector 8, Delhi - DPCC "
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_116",
+    "stationName": "East Arjun Nagar, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_106",
+    "stationName": "IGI Airport (T3), Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_114",
+    "stationName": "IHBAS, Dilshad Garden, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_117",
+    "stationName": "ITO, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1423",
+    "stationName": "Jahangirpuri, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1424",
+    "stationName": "Jawaharlal Nehru Stadium, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_5395",
+    "stationName": "Lodhi Road, Delhi - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_109",
+    "stationName": "Lodhi Road, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1425",
+    "stationName": "Major Dhyan Chand National Stadium, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_122",
+    "stationName": "Mandir Marg, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1561",
+    "stationName": "Mundka, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_115",
+    "stationName": "NSIT Dwarka, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1427",
+    "stationName": "Najafgarh, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1426",
+    "stationName": "Narela, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1429",
+    "stationName": "Nehru Nagar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_105",
+    "stationName": "North Campus, DU, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1428",
+    "stationName": "Okhla Phase-2, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1431",
+    "stationName": "Patparganj, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_125",
+    "stationName": "Punjabi Bagh, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1563",
+    "stationName": "Pusa, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_107",
+    "stationName": "Pusa, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_124",
+    "stationName": "R K Puram, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1430",
+    "stationName": "Rohini, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_113",
+    "stationName": "Shadipur, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_119",
+    "stationName": "Sirifort, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1432",
+    "stationName": "Sonia Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1562",
+    "stationName": "Sri Aurobindo Marg, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1435",
+    "stationName": "Vivek Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "site_1434",
+    "stationName": "Wazirpur, Delhi - DPCC"
+  }]
