@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cleanest Route Finder</title>
+</head>
+<body>
+    <h1>Cleanest Route Finder</h1>
+    <form method="POST">
+        <label for="start">Start:</label>
+        <select name="start" id="start">
+            {% for stop in bus_stops %}
+                <option value="{{ stop }}">{{ bus_stops[stop]['name'] }}</option>
+            {% endfor %}
+        </select>
+        <label for="end">End:</label>
+        <select name="end" id="end">
+            {% for stop in bus_stops %}
+                <option value="{{ stop }}">{{ bus_stops[stop]['name'] }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Find Cleanest Route">
+    </form>
+    
+    {% if cleanest_route %}
+    <h2>Cleanest Route:</h2>
+    <ul>
+        {% for stop in cleanest_route %}
+            <li>{{ bus_stops[stop]['name'] }} (PM2.5: {{ air_quality[bus_stops[stop]['name']]['PM2.5'] }})</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
+

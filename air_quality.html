@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Air Quality Data</title>
+</head>
+<body>
+    <h1>Air Quality Data</h1>
+    <button id="load-data">Load Air Quality Data</button>
+    <div id="data-container"></div>
+
+    <script>
+        document.getElementById('load-data').addEventListener('click', function () {
+            fetch('/air_quality')
+                .then(response => response.json())
+                .then(data => {
+                    const dataContainer = document.getElementById('data-container');
+                    dataContainer.innerHTML = JSON.stringify(data, null, 2);
+                });
+        });
+    </script>
+</body>
+</html>
